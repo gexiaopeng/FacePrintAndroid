@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -u . -x -e ubuntu -m baidu/aip-android/FacePrint -c "cd baidu/aip-android/FacePrint && chmod -R +x ./ && ./build.sh"
